@@ -6,10 +6,24 @@
     android:minWidth="25px"
     android:minHeight="25px">
     <TextView
-        android:text="WORKS!"
+        android:text="Basket name"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/textView1"
+        android:id="@+id/basket_name"
         android:gravity="center_horizontal" />
+    <TextView
+        android:text="Basket date"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/basket_date"
+        android:gravity="center" />
+    <TextView
+        android:text="Basket amount"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/basket_amount"
+        android:gravity="center" />
 </LinearLayout>
