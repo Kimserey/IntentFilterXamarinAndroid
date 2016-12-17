@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentAppOne", "IntentAppOne\IntentAppOne.csproj", "{5AC3A8F8-15C6-4858-A845-921440A00488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntentAppTwo", "IntentAppTwo\IntentAppTwo.csproj", "{2EBEE6E1-EB59-4820-8579-EB5C08361384}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC3A8F8-15C6-4858-A845-921440A00488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC3A8F8-15C6-4858-A845-921440A00488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC3A8F8-15C6-4858-A845-921440A00488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC3A8F8-15C6-4858-A845-921440A00488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBEE6E1-EB59-4820-8579-EB5C08361384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBEE6E1-EB59-4820-8579-EB5C08361384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBEE6E1-EB59-4820-8579-EB5C08361384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBEE6E1-EB59-4820-8579-EB5C08361384}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
